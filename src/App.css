@@ -1,38 +1,158 @@
 .App {
-  text-align: center;
+    text-align: center;
+    color: #333;
+    font-size: 18px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0 1em;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App a {
+    color: #4285F4;
+    text-decoration: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.App a:hover {
+    text-decoration: underline;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.container h1 {
+    margin: 0;
+    padding: 0.65em 0;
 }
 
-.App-link {
-  color: #61dafb;
+.default {
+    background-color: white;
+    border: 2px solid #4285F4;
+    border-radius: 1em;
+    padding: 16px;
+    text-align: center;
+    display: inline-block;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font: inherit;
+    color: inherit;
+    outline: none;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.selected {
+    background-color: #4285F4;
+    color: white;
+}
+
+.reset {
+    background-color: #DB4437;
+    border: none;
+    border-radius: 1em;
+    color: white;
+    padding: 16px;
+    text-align: center;
+    display: inline-block;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font: inherit;
+    outline: none;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.arrow_container {
+    width: fit-content;
+    margin: 3em auto;
+}
+
+.arrow_image {
+    position: relative;
+    width: fit-content;
+    margin: auto;
+    cursor: pointer;
+}
+
+.arrow {
+    width: 100%;
+    max-width: 1000px;
+}
+
+.arrow_settings {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.notes {
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    padding: 0.1em 0.5em;
+    width: 20%;
+    color: #fff;
+    text-align: left;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.charge {
+    display: block;
+}
+
+.bounce {
+    display: inline-block;
+    background-color: #5a5a5a;
+    border: 2px solid #fff;
+    border-radius: 10%;
+    height: 20px;
+    width: 20px;
+    padding: 1px;
+    margin: 7px;
+    transform: rotate(45deg);
+}
+
+.filled {
+    background-color: #dd1818;
+}
+
+.no-tags{
+    margin-top: 2em;
+}
+
+.about-button {
+    font-weight: bold;
+    color: #4285F4;
+    cursor: pointer;
+}
+
+.about {
+    max-width: 1000px;
+    text-align: left;
+    margin: auto;
+    line-height: 1.5;
+}
+
+.about li{
+    margin: 0 0 3px 0;
+}
+
+.about-section {
+    margin-bottom: 3em;
+}
+
+.about-section h2 {
+    margin: 0.2em 0;
+    border-bottom: #4285F4 solid 3px;
+    width: fit-content;
+}
+
+.footer {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.footer p {
+    margin: 0.5em auto;
 }

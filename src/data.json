@@ -1,0 +1,236 @@
+﻿{
+    "arrows": [
+        {
+            "ID": "1",
+            "Tags": "Haven Defense Mid Shock",
+            "Charge": "2",
+            "Bounce": "1",
+            "NotesS": "Stand anywhere in this area, shot isn't sensitive",
+            "NotesL": "Middle left of this box",
+            "NotesD": "use same lineup with different charge to adjust landing"
+        },
+        {
+            "ID": "2",
+            "Tags": "Haven Defense Mid",
+            "Charge": "2",
+            "Bounce": "0",
+            "NotesS": "stick to wall and move left until you just don't see the right panel",
+            "NotesD": "After shooting go to garage window and get ready to wall bang"
+        },
+        {
+            "ID": "3",
+            "Tags": "Haven Defense C Shock",
+            "Charge": "1",
+            "Bounce": "0",
+            "NotesS": "All the way in the corner",
+            "NotesD": "Do this when you hear plant or defuse"
+        },
+        {
+            "ID": "4",
+            "Tags": "Haven Defense C",
+            "Charge": "4",
+            "Bounce": "1",
+            "NotesS": "Stand anywhere in this area, shot isn't sensitive",
+            "NotesL": "aim around bottom middle of first brick"
+        },
+        {
+            "ID": "5",
+            "Tags": "Haven Defense B Mid Shock",
+            "Charge": "2",
+            "Bounce": "1",
+            "NotesS": "doesn't matter how far up or back you stand as long as you line up these panels",
+            "NotesL": "aim just below the right angle made by the red frame",
+            "NotesD": "lands inside window to punish peekers"
+        },
+        {
+            "ID": "6",
+            "Tags": "Haven Defense B Mid",
+            "Charge": "4",
+            "Bounce": "1",
+            "NotesS": "Stick to right wall, walk up until these two panels touch",
+            "NotesD": "reveals B push all of this cubby"
+        },
+        {
+            "ID": "7",
+            "Tags": "Haven Defense A",
+            "Charge": "2",
+            "Bounce": "0"
+        },
+        {
+            "ID": "8",
+            "Tags": "Haven Defense C",
+            "Charge": "2",
+            "Bounce": "0",
+            "NotesD": "reveals C long, a bit of C lobby and some of Attacker Mid"
+        },
+        {
+            "ID": "9",
+            "Tags": "Haven Defense B",
+            "Charge": "4",
+            "Bounce": "2",
+            "NotesS": "Stick to wall and move right until these two panels touch",
+            "NotesD": "retake B and safe while doing it"
+        },
+        {
+            "ID": "10",
+            "Tags": "Haven Defense A",
+            "Charge": "2",
+            "Bounce": "0"
+        },
+        {
+            "ID": "11",
+            "Tags": "Haven Defense A",
+            "Charge": "4",
+            "Bounce": "1"
+        },
+        {
+            "ID": "12",
+            "Tags": "Haven Attack B Mid",
+            "Charge": "4",
+            "Bounce": "0",
+            "NotesD": "reveals people hiding on both sides of this box with one arrow"
+        },
+        {
+            "ID": "13",
+            "Tags": "Haven Attack C Best",
+            "Charge": "2",
+            "Bounce": "0",
+            "NotesS": "All the way in the corner",
+            "NotesD": "Best arrow for C"
+        },
+        {
+            "ID": "14",
+            "Tags": "Haven Attack B Mid",
+            "Charge": "2",
+            "Bounce": "0",
+            "NotesS": "All the way in the corner",
+            "NotesD": "mainly for mid peekers but also reveals this"
+        },
+        {
+            "ID": "15",
+            "Tags": "Haven Attack B Mid",
+            "Charge": "4",
+            "Bounce": "1",
+            "NotesS": "Stand anywhere in this area, shot isn't sensitive",
+            "NotesL": "aim around the vertical middle (shot isn't very sensitive)"
+        },
+        {
+            "ID": "16",
+            "Tags": "Haven Attack B Mid",
+            "Charge": "4",
+            "Bounce": "1",
+            "NotesS": "Back against the wall, line up the wood about half way with this trapezoid shape",
+            "NotesL": "aim around the vertical middle (shot isn't very sensitive)"
+        },
+        {
+            "ID": "17",
+            "Tags": "Haven Attack A",
+            "Charge": "2",
+            "Bounce": "0",
+            "NotesS": "All the way in the corner",
+            "NotesL": "Line up second bounce diamond with corner of grey  square",
+            "NotesD": "reveals people hiding on right and also someone peeking long"
+        },
+        {
+            "ID": "18",
+            "Tags": "Haven Attack A",
+            "Charge": "2",
+            "Bounce": "0",
+            "NotesS": "On the sandbags all the way in the corner",
+            "NotesL": "below the second window about half way into the yellow area",
+            "NotesD": "reveals most of A site"
+        },
+        {
+            "ID": "19",
+            "Tags": "Haven Attack Defense A",
+            "Charge": "1",
+            "Bounce": "0",
+            "NotesS": "Stand anywhere in this area, shot isn't sensitive",
+            "NotesD": "use after taking A to see rotators coming from B"
+        },
+        {
+            "ID": "20",
+            "Tags": "Split Attack B",
+            "Charge": "3",
+            "Bounce": "0"
+        },
+        {
+            "ID": "21",
+            "Tags": "Split Attack B",
+            "Charge": "4",
+            "Bounce": "1",
+            "NotesS": "Walk into this corner",
+            "NotesL": "Put this part of your bow just above the lantern",
+            "NotesD": "Lands inside B heaven after a delay"
+        },
+        {
+            "ID": "22",
+            "Tags": "Split Attack Mid",
+            "Charge": "2",
+            "Bounce": "1",
+            "NotesS": "Walk into the middle of this wall"
+        },
+        {
+            "ID": "23",
+            "Tags": "Split Attack Mid",
+            "Charge": "2",
+            "Bounce": "0",
+            "NotesS": "This is in ramen",
+            "NotesD": "this reveals people holding an angle in vents. Kill them as they turn to shoot the arrow"
+        },
+        {
+            "ID": "24",
+            "Tags": "Split Attack A",
+            "Charge": "4",
+            "Bounce": "0",
+            "NotesS": "Move left on this box until you can see the tower behind the sign",
+            "NotesL": "shot isn't very sensitive",
+            "NotesD": "reveals some of A heaven and anyone up close on site"
+        },
+        {
+            "ID": "25",
+            "Tags": "Split Attack A",
+            "Charge": "4",
+            "Bounce": "0",
+            "NotesS": "Stick to right wall",
+            "NotesL": "put second line in between your bounce diamonds"
+        },
+        {
+            "ID": "26",
+            "Tags": "Split Attack A",
+            "Charge": "4",
+            "Bounce": "1",
+            "NotesD": "reveals most of ramp and some of A heaven"
+        },
+        {
+            "ID": "27",
+            "Tags": "Split Attack A",
+            "Charge": "2",
+            "Bounce": "0",
+            "NotesS": "Walk into the middle of this grass wall",
+            "NotesD": "great ult setup"
+        },
+        {
+            "ID": "28",
+            "Tags": "Split Defense A",
+            "Charge": "2",
+            "Bounce": "0",
+            "NotesS": "All the way in the corner"
+        },
+        {
+            "ID": "29",
+            "Tags": "Split Defense A",
+            "Charge": "4",
+            "Bounce": "1"
+        },
+        {
+            "ID": "30",
+            "Tags": "Split Defense A",
+            "Charge": "4",
+            "Bounce": "0",
+            "NotesS": "Stand anywhere in this area, shot isn't sensitive",
+            "NotesL": "Just hit the billboard",
+            "NotesD": "Reveals A Main and A Lobby"
+        }
+    ]
+}
