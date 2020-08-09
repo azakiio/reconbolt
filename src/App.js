@@ -147,7 +147,7 @@ const MoreInfo = (
       </p>
       <p>
         For now, you can provide feedback through{" "}
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/azakiio">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/azakiio/reconbolt">
           Github
         </a>{" "}
         or{" "}
@@ -259,7 +259,7 @@ function Container(props) {
 
       <p>
         Check out the{" "}
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/azakiio">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/azakiio/reconbolt">
           Project Repo
         </a>
       </p>
